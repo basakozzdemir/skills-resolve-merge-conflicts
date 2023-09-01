@@ -1,3 +1,7 @@
-# References
 
-* octocat 1 😈
+# My References (Conflict)
+
+- Alice Johnson
+- Bob Smith
+- Carol Davis
+
